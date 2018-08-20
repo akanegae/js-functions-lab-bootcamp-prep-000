@@ -7,12 +7,12 @@ function happyHolidays(string) {
   return "Happy holidays!"
 }
 
-function happyHolidaysTo(name) {
+function happyHolidayTo(name) {
   console.log('you')
   return `Happy Holidays, ${name}!`
 }
 
-function happyHolidaysTo(holiday, name) {
+function happyHolidayTo(holiday, name) {
   console.log("Independence Day", 'you')
   return `Happy ${holiday}, ${name}!`
 }
