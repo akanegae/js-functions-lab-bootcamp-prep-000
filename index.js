@@ -8,12 +8,12 @@ function happyHolidays(string) {
 }
 
 function happyHolidaysTo(name) {
-  console.log(`you`)
+  console.log('you')
   return `Happy Holidays, ${name}!`
 }
 
 function happyHolidaysTo(holiday, name) {
-  console.log(`Independence Day`, `you`)
+  console.log("Independence Day", 'you')
   return `Happy ${holiday}, ${name}!`
 }
 
